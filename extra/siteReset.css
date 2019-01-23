@@ -1,0 +1,11 @@
+body{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+p { color: #333333; 
+    font-family: Georgia, serif; 
+    font-size: 18px; 
+    line-height: 28px; 
+    margin: 0 0 28px; }
+
